@@ -74,5 +74,7 @@ int main() {
 ```
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/5437676b-c4df-419d-b308-9b0df1ed55d0)
+
 ## RESULT:
 The program is executed successfully

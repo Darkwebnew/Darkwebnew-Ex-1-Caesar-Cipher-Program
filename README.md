@@ -76,7 +76,10 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5437676b-c4df-419d-b308-9b0df1ed55d0)
+Enter the message to encrypt: Hello, World!
+Enter the Caesar Cipher key (an integer): 3
+Encrypted Message: Khoor, Zruog!
+Decrypted Message: Hello, World!
 
 ## RESULT:
 The program is executed successfully

@@ -1,6 +1,6 @@
-# Ex-1 Caesar Cipher
+# EX-1: CAESAR CIPHER
 
-## Date:
+## DATE:
 
 Caeser Cipher using with different key values
 

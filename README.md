@@ -12,7 +12,7 @@ To encrypt and decrypt the given message by using Ceaser Cipher encryption algor
 <br>
 <br>
 
-## DESIGN STEPS:
+## ALGORITHM:
 
 <br>
 

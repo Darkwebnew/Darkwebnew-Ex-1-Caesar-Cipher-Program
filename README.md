@@ -5,6 +5,7 @@
 Caeser Cipher using with different key values
 
 ## AIM:
+
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
 
 ## DESIGN STEPS:
@@ -14,13 +15,19 @@ To encrypt and decrypt the given message by using Ceaser Cipher encryption algor
 **Step 2:** Implementation using C or Python code
 
 **Step 3:**
+
   - In Caesar Cipher, each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
+  
   - For example, with a left shift of 3, D would be replaced by A, E would become B, and so on.
+  
   - The encryption can also be represented using modular arithmetic by first transforming the letters into numbers, according to the scheme A = 0, B = 1, ..., Z = 25.
+  
   - Encryption of a letter `x` by a shift `n` can be described mathematically as: `E_n(x) = (x + n) mod 26`.
+  
   - Decryption is performed similarly: `D_n(x) = (x - n) mod 26`.
 
 ## PROGRAM:
+
 ```
 #include <iostream>
 #include <cstring>
@@ -69,9 +76,11 @@ int main() {
     return 0;
 }
 ```
+
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/5437676b-c4df-419d-b308-9b0df1ed55d0)
 
 ## RESULT:
+
 The program is executed successfully

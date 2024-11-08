@@ -1,18 +1,32 @@
 # Ex-1: CAESAR CIPHER
-
+&nbsp;
 ## DATE:
 
+<br>
 Caeser Cipher using with different key values
+
+<br>
+<br>
 
 ## AIM:
 
+<br>
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
+
+<br>
+<br>
 
 ## DESIGN STEPS:
 
+<br>
+
 **Step 1:** Design of Caesar Cipher Algorithm
 
+<br>
+
 **Step 2:** Implementation using C or Python code
+
+<br>
 
 **Step 3:**
 
@@ -26,7 +40,11 @@ To encrypt and decrypt the given message by using Ceaser Cipher encryption algor
   
   - Decryption is performed similarly: `D_n(x) = (x - n) mod 26`.
 
+<br>
+
 ## PROGRAM:
+
+<br>
 
 ```
 #include <iostream>
@@ -77,10 +95,18 @@ int main() {
 }
 ```
 
+<br>
+
 ## OUTPUT:
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/5437676b-c4df-419d-b308-9b0df1ed55d0)
 
+<br>
+
 ## RESULT:
+
+<br>
 
 The program is executed successfully

@@ -1,4 +1,4 @@
-# Ex-1: CAESAR CIPHER
+# Ex-1 CAESAR CIPHER
 
 <br>
 
